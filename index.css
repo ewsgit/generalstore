@@ -5,4 +5,6 @@ h1 {
 .WebHeader {
   background-color: red;
   display: flex;
+  width: 99vw;
+  height: 20vh;
 }
