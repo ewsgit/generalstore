@@ -5,6 +5,51 @@ h1 {
 .WebHeader {
   background-color: red;
   width: 99vw;
-  height: 20vh;
-  text-align: center;
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+}
+
+.homebar {
+  color: whitesmoke;
+  background-color: black;
+  padding-left: 2vw;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  padding-right: 2vw;
+  border-radius: 6px;
+  margin-left: 1vw;
+}
+
+.aboutbar {
+  color: whitesmoke;
+  background-color: black;
+  padding-left: 2vw;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  padding-right: 2vw;
+  border-radius: 6px;
+  margin-left: 1vw;
+}
+
+.pricesbar {
+  color: whitesmoke;
+  background-color: black;
+  padding-left: 2vw;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  padding-right: 2vw;
+  border-radius: 6px;
+  margin-left: 1vw;
+}
+
+.dealsbar {
+  color: whitesmoke;
+  background-color: black;
+  padding-left: 2vw;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  padding-right: 2vw;
+  border-radius: 6px;
+  margin-left: 1vw;
 }
