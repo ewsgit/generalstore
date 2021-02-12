@@ -5,7 +5,7 @@ h1 {
 .WebHeader {
   background-color: rgba(10, 200, 1000, 25);
   width: auto;
-  height: 10vh;
+  height: 9.5vh;
   display: flex;
   flex-direction: row;
 }
@@ -104,6 +104,8 @@ p {
   height: 10vh;
   border-radius: 6px;
   transition: 500ms;
+  margin: auto;
+  text-align: center;
 }
 
 .priceshome:hover {
@@ -113,4 +115,14 @@ p {
 
 body {
   background-color: black;
+}
+
+.menubartitle {
+  padding-left: 2.5vw;
+}
+
+.menubarlinks {
+  padding-top: 1.5vh;
+  display: flex;
+  flex-direction: row;
 }
